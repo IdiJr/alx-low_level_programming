@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - Entry point
- * return: 0 if success
+ * main - prints out a string to stout
+ * Return: 0 if success
  */
 int main(void)
 {
