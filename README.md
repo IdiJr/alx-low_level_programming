@@ -14,3 +14,6 @@ How to print value of variables of type `char`, `int`, `unsigned int`, with `pri
 
 ### 0x02. C - Functions, nested loops
 In this session, the use of nested loops, header files and functions were studied. The difference between declaration and definition of a function, scope of variables and `gcc` flags were also studied.
+
+### 0x03. C - Debugging
+In this session, how to debug in C programming was studied.
