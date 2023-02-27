@@ -24,4 +24,5 @@ In this session, how to debug in C programming was studied.
 ### 0x04. C -More functions, more nested loops
 In this session, the concept of nested loops in `0x02. C - Functions, nested loops` were expanded.
 
-##
+### 0x05-pointers_arrays_strings
+In this session, the concept of pointers and arrays is introduced. The difference between pointers and arrays, their uses and also, what are strings and how to manipulate them.
