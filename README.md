@@ -6,7 +6,8 @@ This repository contains directories that contains various stages of the C progr
 * 0x01. C - Variables, if, else, while
 * 0x02. C - Functions, nested loops
 * 0x03. C - Debugging
-* 0x04. C -More functions, more nested loops
+* 0x04. C - More functions, more nested loops
+* 0x05. C - Pointers, arrays and strings
 
 ### 0x00. C - Hello, World
 Introduction to C programming. includes how to write scrits in C programming and basic use of `printf`, `puts`, `sizeof`, `write`.
