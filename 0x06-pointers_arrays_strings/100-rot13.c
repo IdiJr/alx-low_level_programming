@@ -14,7 +14,7 @@ char *rot13(char *p)
 	int j;
 
 	char string1[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
-	char stringrot[] = "fghijklmnoabcdeABCDEFGHIJKLMNpqrstuvwxyzOPQRSTUVWXYZ";
+	char stringrot[] = "NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm";
 
 	for (i = 0; p[i] != '\0'; i++)
 	{
