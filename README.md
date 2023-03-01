@@ -8,6 +8,7 @@ This repository contains directories that contains various stages of the C progr
 * 0x03. C - Debugging
 * 0x04. C - More functions, more nested loops
 * 0x05. C - Pointers, arrays and strings
+* 0x06. C - Pointers, arrays and strings
 
 ### 0x00. C - Hello, World
 Introduction to C programming. includes how to write scrits in C programming and basic use of `printf`, `puts`, `sizeof`, `write`.
@@ -27,3 +28,6 @@ In this session, the concept of nested loops in `0x02. C - Functions, nested loo
 
 ### 0x05-pointers_arrays_strings
 In this session, the concept of pointers and arrays is introduced. The difference between pointers and arrays, their uses and also, what are strings and how to manipulate them.
+
+### 0x06-pointers_arrays_strings
+This session, is a continuation of the previous one `0x05-pointers_arrays_strings`
