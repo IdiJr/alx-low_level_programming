@@ -9,7 +9,8 @@ This repository contains directories that contains various stages of the C progr
 * 0x04. C - More functions, more nested loops
 * 0x05. C - Pointers, arrays and strings
 * 0x06. C - Pointers, arrays and strings
-* 0x07. C- Even more pointers_arrays_strings
+* 0x07. C - Even more pointers_arrays_strings
+* 0x08. C - Recursion
 
 ### 0x00. C - Hello, World
 Introduction to C programming. includes how to write scrits in C programming and basic use of `printf`, `puts`, `sizeof`, `write`.
@@ -35,3 +36,6 @@ This session, is a continuation of the previous one `0x05-pointers_arrays_string
 
 ### 0x07. C- Even more pointers_arrays_strings
 This session, is a continuation of the previous one `0x06-pointers_arrays_strings`
+
+### 0x08. C - Recursion
+In this session, we learn what recurssion is, how it is implemented, when to and when not to implement recursions.
