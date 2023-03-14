@@ -12,6 +12,7 @@ This repository contains directories that contains various stages of the C progr
 * 0x07. C - Even more pointers_arrays_strings
 * 0x08. C - Recursion
 * 0x09. C - Static libraries
+* 0x0A. C - argc, argv
 
 ### 0x00. C - Hello, World
 Introduction to C programming. includes how to write scrits in C programming and basic use of `printf`, `puts`, `sizeof`, `write`.
@@ -43,3 +44,6 @@ In this session, we learn what recurssion is, how it is implemented, when to and
 
 ### 0x09. C - Static libraries
 In this session, we learn how to create static libraries to and how to use them.
+
+### 0x0A. C - argc, argv
+In this session, how arguments are passed in a program is learnt.
