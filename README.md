@@ -17,6 +17,7 @@ This repository contains directories that contains various stages of the C progr
 * 0x0C. C - more malloc, free
 * 0x0D. C - Preprocessor
 * 0x0E. C - Structures, typedef
+* 0x0F. C - Function pointers
 
 ### 0x00. C - Hello, World
 Introduction to C programming. includes how to write scrits in C programming and basic use of `printf`, `puts`, `sizeof`, `write`.
@@ -63,3 +64,6 @@ In this session, the concept of macros is explored.
 
 ### 0x0E. C - Structures, typedef
 In this session, the concept of structures, when and how they are used is explored.
+
+### 0x0F. C - Function pointers
+In this session, the concept of function pointers is studied.
