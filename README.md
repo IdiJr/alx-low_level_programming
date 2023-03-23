@@ -18,6 +18,7 @@ This repository contains directories that contains various stages of the C progr
 * 0x0D. C - Preprocessor
 * 0x0E. C - Structures, typedef
 * 0x0F. C - Function pointers
+* 0x10. C - variadic_functions
 
 ### 0x00. C - Hello, World
 Introduction to C programming. includes how to write scrits in C programming and basic use of `printf`, `puts`, `sizeof`, `write`.
@@ -67,3 +68,6 @@ In this session, the concept of structures, when and how they are used is explor
 
 ### 0x0F. C - Function pointers
 In this session, the concept of function pointers is studied.
+
+### 0x10. C - variadic_functions
+In this session, What variadic functions are,how to use `va_start`, `va_arg` and `va_end` macros, and why and how to use the `const` type qualifier
