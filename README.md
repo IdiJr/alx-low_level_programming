@@ -19,6 +19,10 @@ This repository contains directories that contains various stages of the C progr
 * 0x0E. C - Structures, typedef
 * 0x0F. C - Function pointers
 * 0x10. C - variadic_functions
+* 0x11. C - printf (Group project)
+* 0x12. C - Singly linked lists
+* 0x13. C - More singly linked lists
+* 0x14. C - Bit manipulation
 
 ### 0x00. C - Hello, World
 Introduction to C programming. includes how to write scrits in C programming and basic use of `printf`, `puts`, `sizeof`, `write`.
@@ -70,4 +74,16 @@ In this session, the concept of structures, when and how they are used is explor
 In this session, the concept of function pointers is studied.
 
 ### 0x10. C - variadic_functions
-In this session, What variadic functions are,how to use `va_start`, `va_arg` and `va_end` macros, and why and how to use the `const` type qualifier
+In this session, What variadic functions are,how to use `va_start`, `va_arg` and `va_end` macros, and why and how to use the `const` type qualifier.
+
+### 0x11. C - printf (Group project)
+In this session, a function that works like `printf` was made by collaborating with a peer.
+
+### 0x12. C - Singly linked lists
+In this session, we looked at the concept of `Data structures` and linked lists
+
+### 0x13. C - More singly linked lists
+In this session, the concept of linked lists were expanded.
+
+### 0x14. C - Bit manipulation
+In this session, the concept of bit manipulation was explored
