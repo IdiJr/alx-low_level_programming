@@ -2,12 +2,12 @@
 #include <stddef.h>
 
 /**
- * binary_to_uint - converts the string to an unsigned int
+ * binary_to_unit - converts the string to an unsigned int
  * @b: the string that is to be converted
  *
  * Return: the converted unsigned int
  */
-unsigned int binary_to_uint(const char *b)
+unsigned int binary_to_unit(const char *b)
 {
 	unsigned int value = 0;
 	int i;
