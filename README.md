@@ -23,6 +23,7 @@ This repository contains directories that contains various stages of the C progr
 * 0x12. C - Singly linked lists
 * 0x13. C - More singly linked lists
 * 0x14. C - Bit manipulation
+* 0x15. C - File I/O
 
 ### 0x00. C - Hello, World
 Introduction to C programming. includes how to write scrits in C programming and basic use of `printf`, `puts`, `sizeof`, `write`.
@@ -86,4 +87,7 @@ In this session, we looked at the concept of `Data structures` and linked lists
 In this session, the concept of linked lists were expanded.
 
 ### 0x14. C - Bit manipulation
-In this session, the concept of bit manipulation was explored
+In this session, the concept of bit manipulation was explored.
+
+### 0x15. C - File I/O
+In this session, file I/O was studied.
