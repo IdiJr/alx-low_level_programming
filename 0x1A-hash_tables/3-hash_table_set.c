@@ -43,8 +43,8 @@ int hash_table_set(hash_table_t *ht, const char *key, const char *value)
 		return (0);
 	}
 	new_ht->value = copy_val;
-	new_ht->next = ht->array[idx];
-	ht->array[idx] = new_ht;
+	new_ht->next = ht->array[index];
+	ht->array[index] = new_ht;
 
 	return (1);
 }
