@@ -91,7 +91,7 @@ int shash_table_set(shash_table_t *ht, const char *key, const char *value)
 	}
 	else
 	{
-		for(tmp = ht->shead;
+		for (tmp = ht->shead;
 		    tmp->snext != NULL && strcmp(tmp->snext->key, key) < 0;
 		tmp = tmp->snext)
 		;
@@ -107,7 +107,8 @@ int shash_table_set(shash_table_t *ht, const char *key, const char *value)
 }
 
 /**
- * shash_table_get - Retrieves the value associated with a key in the sorted hash table.
+ * shash_table_get - Retrieves the value associated with a
+ * key in the sorted hash table.
  * @ht: Pointer to the sorted hash table
  * @key: The key to search for
  * Return: Null if the key is not found else, the value of the key
