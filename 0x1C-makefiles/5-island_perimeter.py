@@ -1,11 +1,13 @@
 #!/usr/bin/python3
 """
-Function that prints the perimeter of the island described
+Function that calculates the perimeter of the island
 """
 
 
 def island_perimeter(grid):
-
+    """ Initialises the island perimeter function
+    Returns: the perimeter of the island
+    """
     width = len(grid[0])
     height = len(grid)
     perimeter = 0
